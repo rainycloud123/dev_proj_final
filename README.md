@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https://rainycloud123.github.io/development/
+https://rainycloud123.github.io/dev_proj_final/
 
 ### Goal and Value of the Application
 - goal is to create an easy to use web application to browse rescue puppies 
