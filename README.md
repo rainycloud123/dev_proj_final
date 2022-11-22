@@ -1,7 +1,5 @@
 # Development
 
-I had a very hard time getting an anonymous submissin so this is what I did. This repo has all of my code the only thing it doesnt have is the node modules which i need npm install for. I cant push from my vs code though so I cant get those on git hub. I also cant transfer them because there are 1 million of them. I tried for many many hours all the different ed solutions and stack overflow solutions and none of them worked so this what I did. Sorry if its an inconvenience. 
-
 ### Link to Deployed Website
 https://rainycloud123.github.io/development/
 
