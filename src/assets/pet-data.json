@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Pickle",
+        "breed": "Labrador",
+        "sex": "male",
+        "time": "8",
+        "price": 100,
+        "image": "pickle.jpg"
+    },
+    {
+        "name": "Remmy",
+        "breed": "Retriever",
+        "sex": "male",
+        "time": "9",
+        "price": 100,
+        "image": "goldenret.jpg" 
+    },
+    {
+        "name": "Bernie",
+        "breed": "Pyranese",
+        "sex": "male",
+        "time": "12",
+        "price": 100,
+        "image": "notbernie.jpg"
+    },
+    {
+        "name": "Peter",
+        "breed": "Bulldog",
+        "sex": "male",
+        "time": "6",
+        "price": 100,
+        "image": "bulldog.jpg"
+    },
+    {
+        "name": "Penny",
+        "breed": "Labrador",
+        "sex": "female",
+        "time": "10",
+        "price": 100,
+        "image": "lab.png"
+    },
+    {
+        "name": "Meghan",
+        "breed": "Retriever",
+        "sex": "female",
+        "time": "9",
+        "price": 100,
+        "image": "goldenret2.jpg"
+    },
+    {
+        "name": "Doug",
+        "breed": "Retriever",
+        "sex": "male",
+        "time": "8",
+        "price": 100,
+        "image": "doug.jpg"
+    },
+    {
+        "name": "Scooby",
+        "breed": "Pyranese",
+        "sex": "male",
+        "time": "8",
+        "price": 100,
+        "image": "pyranese.jpg"
+    },
+    {
+        "name": "Randy",
+        "breed": "Retriever",
+        "sex": "female",
+        "time": "7",
+        "price": 100,
+        "image": "yawn.jpg"
+    },
+    {
+        "name": "Rudy",
+        "breed": "Labrador",
+        "sex": "male",
+        "time": "7",
+        "price": 100,
+        "image": "blacklab1.jpg"
+    },
+    {
+        "name": "Ferdinand",
+        "breed": "Bulldog",
+        "sex": "male",
+        "time": "5",
+        "price": 100,
+        "image": "bull.jpg"
+    },
+    {
+        "name": "Barry",
+        "breed": "Pyranese",
+        "sex": "male",
+        "time": "6",
+        "price": 100,
+        "image": "pyranese1.jpg"
+    }
+]

@@ -1,17 +1,8 @@
 .App {
+  background-color: rgb(186, 173, 196);
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #282c34;
@@ -28,11 +19,88 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+img {
+  border-radius: 8px;
+  width: 300px;
+  height: 215px;
 }
+
+.dropdown {
+  position: relative;
+
+
+}
+
+.menu {
+  position: absolute;
+
+  list-style-type: none;
+  margin: 5px 0;
+  padding: 0;
+
+  border: 1px solid rgb(187, 191, 245);
+  width: 150px;
+}
+
+.menu > li {
+  margin: 0;
+
+  background-color: rgb(191, 236, 252);
+}
+
+.menu > li:hover {
+  background-color: rgb(211, 211, 211);
+}
+
+.menu > li > button {
+  width: 100%;
+  height: 100%;
+  text-align: left;
+
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 5px;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.dogs{
+  justify-content: flex;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.button{
+  background-color:rgb(140, 189, 182);
+  border-radius:  10px;  
+  padding: 5px;
+}
+.button:hover{
+  background-color: rgb(186, 173, 196);
+  transition: .3s;
+}
+
+.button2{
+  background-color:rgb(140, 189, 182);
+  padding: 5px;
+  max-width: 150px;
+  min-width: 150px;
+}
+.button2:hover{
+  background-color: rgb(186, 173, 196);
+}
+
+
+/* questions: 
+-buttons in favorites (only want remove button) , only want add button in main 
+menu
+- style: center dropdown, center images, font
+
+*/
+
